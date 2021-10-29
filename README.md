@@ -119,21 +119,38 @@ Y obligo a la cámara a seguir mi cubo.
 
 Comencemos insertando todos los objetos, es decir, 2 tipos diferentes de cilindros, algunos cubos y una esfera que será controlable.
 
-![image](https://user-images.githubusercontent.com/93151367/139358577-4fe5f547-1a7e-4c2b-b023-7a0aada71ec9.png)
+![Screenshot (5431)](https://user-images.githubusercontent.com/93151367/139395091-d93fb348-a377-42ea-bd03-98644ff61b73.png)
 
 El código para crear el Score Board.
 
-![image](https://user-images.githubusercontent.com/93151367/139359365-d1377c22-5c6b-4b05-a761-feff68c640a6.png)
+![Screenshot (5430)](https://user-images.githubusercontent.com/93151367/139394989-2ccb9133-8b3d-430a-ba17-a43deaddbf35.png)
  
-Primero escribimos las líneas de código que otorgan 100 puntos cada vez que el jugador choca con un cilindro.
+los otros scripts son:
 
-![Screenshot (5420)](https://user-images.githubusercontent.com/93151367/139360916-76887fb8-ed06-4545-b60c-1de7866b3d51.png)
+Para el primer tipo de cilindro que aumenta de tamaño.
 
-Ahora también vemos el primer tipo de cilindro que aumenta de tamaño al contacto.
+![Screenshot (5433)](https://user-images.githubusercontent.com/93151367/139396589-9c7e8665-c9f6-4910-aca0-7ef87d76b8a3.png)
 
-![Screenshot (5427)](https://user-images.githubusercontent.com/93151367/139365272-e39e3ea9-c88b-40ee-bcf8-5328aa2cfe83.png)
+Para el segundo tipo de cilindro que se aleja cuando se presiona la tecla espaciadora.
 
-![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/93151367/139365917-eae2a4f5-714f-4506-ac5b-d90723434529.gif)
+![Screenshot (5435)](https://user-images.githubusercontent.com/93151367/139396750-d69f5bda-3859-476b-b1ac-dca700c3c6c5.png)
+
+Para el tercer tipo de cilindro que se aleja cuando el jugador se acerca.
+
+![Screenshot (5437)](https://user-images.githubusercontent.com/93151367/139396886-71b8e437-a155-4bb0-a3a7-4ec5f69dbf78.png)
+
+Para el control del segundo jugador, que es la esfera.
+
+![Screenshot (5439)](https://user-images.githubusercontent.com/93151367/139397027-227f884c-f32f-49b2-be8b-3fc6ba491666.png)
+
+Y finalmente el código para los cubos que cambian de forma.
+
+![Screenshot (5441)](https://user-images.githubusercontent.com/93151367/139397195-402211e2-752a-451e-b19b-ef4a658a14fe.png)
+
+
+Resultados finales
+
+![ezgif com-gif-maker (14)](https://user-images.githubusercontent.com/93151367/139396354-b50884e0-c967-4f6a-b2ee-813789903b15.gif)
 
 
 
