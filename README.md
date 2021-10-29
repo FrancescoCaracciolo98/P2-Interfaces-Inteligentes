@@ -115,5 +115,26 @@ Y obligo a la cámara a seguir mi cubo.
 
 
 ## Parte 3
+![Screenshot (5413)](https://user-images.githubusercontent.com/93151367/139352592-d5f1e320-16be-437f-b826-e87008359256.png)
+
+Comencemos insertando todos los objetos, es decir, 2 tipos diferentes de cilindros, algunos cubos y una esfera que será controlable.
+
+![image](https://user-images.githubusercontent.com/93151367/139358577-4fe5f547-1a7e-4c2b-b023-7a0aada71ec9.png)
+
+El código para crear el Score Board.
+
+![image](https://user-images.githubusercontent.com/93151367/139359365-d1377c22-5c6b-4b05-a761-feff68c640a6.png)
+ 
+Primero escribimos las líneas de código que otorgan 100 puntos cada vez que el jugador choca con un cilindro.
+
+![Screenshot (5420)](https://user-images.githubusercontent.com/93151367/139360916-76887fb8-ed06-4545-b60c-1de7866b3d51.png)
+
+Ahora también vemos el primer tipo de cilindro que aumenta de tamaño al contacto.
+
+![Screenshot (5427)](https://user-images.githubusercontent.com/93151367/139365272-e39e3ea9-c88b-40ee-bcf8-5328aa2cfe83.png)
+
+![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/93151367/139365917-eae2a4f5-714f-4506-ac5b-d90723434529.gif)
+
+
 
 
